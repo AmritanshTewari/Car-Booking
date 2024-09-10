@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 - **Tailwind CSS**: For styling and responsive design.
 - **TypeScript**: For static typing and improved developer experience.
 - **Node.js**: Backend environment for running the server.
-- **Vercel**: For deployment and hosting.
+- **API Integration**: Fetches car images from an external API for dynamic content.
 
 ## How to Use
 
